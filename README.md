@@ -35,6 +35,9 @@ A **Decision Tree classification model** was trained using selected medical pred
 
 The model was implemented using the **rpart** package in R.
 
+#### Decision Tree Visualization
+![Decision Tree](decision_tree.png)
+
 ### 3. Model Evaluation
 Model performance was evaluated using a **confusion matrix**, including metrics such as:
 
